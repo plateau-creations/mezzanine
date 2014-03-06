@@ -1,0 +1,1 @@
+Mezzanine is a Laravel4 package for easy asset management. His main feature is to provide a dual source management to each asset, meaning you can use a local file for your developpment needs, then use a faster CDN source for production, without modifying your code.
